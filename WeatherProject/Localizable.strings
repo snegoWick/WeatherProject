@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  WeatherProject
+
+  Created by Aleksandr Makarov on 07.06.2022.
+  
+*/
+
+"Clouds" = "smoke.fill";
+"Rain" = "cloud.rain.fill";
+"Clear" = "sun.max.fill";
+
